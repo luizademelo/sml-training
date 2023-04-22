@@ -1,5 +1,5 @@
 # sml-training
-Repositório feito para guardar alguns códigos de exercícios em SML (Standard ML) do site https://exercism.org/, a fim de ajudar na disciplina de Linguagens de Programação. 
+Repositório feito para guardar alguns códigos de exercícios em SML (Standard ML) do site https://exercism.org/ e das listas da disciplina, a fim de ajudar na disciplina de Linguagens de Programação. 
 
 ### Características gerais da linguagem: 
 - fortemente tipada

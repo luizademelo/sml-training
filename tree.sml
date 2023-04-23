@@ -22,5 +22,5 @@ fun makeBST (h::t) f = if null t then Node(Empty, h, Empty)
 
 fun searchBST Empty _  _= false
 | searchBST (Node(left, data, right)) f e = if e = data then true
-										else if f(e,data) = true then false orelse (searchBST left f e)
-										else (searchBST right f e)
+					else if f(e,data) = true then false orelse (searchBST left f e)
+					else (searchBST right f e)
